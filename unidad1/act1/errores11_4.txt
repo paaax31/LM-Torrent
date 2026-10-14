@@ -1,0 +1,18 @@
+
+1. El DOCTYPE estaba mal escrito: htm en vez de html.
+
+2. El atributo lang estaba mal escrito: lan=es en vez de lang="es".
+
+3. Faltaba cerrar la etiqueta title con </title>.
+
+4. Faltaba indicar la codificación UTF-8.
+
+5. El h1 estaba mal cerrado. Ponía <h1> en vez de </h1>.
+
+6. Las etiquetas b y p estaban cerradas en el orden incorrecto.
+
+7. Faltaba cerrar el párrafo del horario con </p>.
+
+8. Faltaba cerrar la etiqueta li de Teléfono.
+
+9. Faltaba cerrar la etiqueta li de Email.
